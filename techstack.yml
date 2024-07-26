@@ -1,0 +1,1139 @@
+repo_name: vladdou/metasploit-framework
+report_id: 9f0c5ae963b89b1b75045814f051809f
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-26T05:35:22+00:00'
+requested_by: wvu
+provider: github
+branch: master
+detected_tools_count: 66
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: '5.0'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/external/source/exploits/cve-2013-0074/SilverApp1/SilverApp1.csproj
+  detection_source: external/source/exploits/cve-2013-0074/SilverApp1/SilverApp1.csproj
+  last_updated_by: jvazquez-r7
+  last_updated_on: 2013-11-22 22:53:06.000000000 Z
+- name: ActionScript
+  description: An object-oriented programming language
+  website_url: http://www.adobe.com/devnet/actionscript.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2329/8ei_UuLc_400x400.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: Assembly Language
+  description: A low-level programming language
+  website_url: https://en.wikipedia.org/wiki/Assembly_language
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/external/source/SqlClrPayload/AssemblyAttributes-v2.0.cs
+  detection_source: external/source/SqlClrPayload/AssemblyAttributes-v2.0.cs
+  last_updated_by: OJ
+  last_updated_on: 2017-02-10 00:28:22.000000000 Z
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  version: 2.4.2
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/.ruby-version
+  detection_source: Repo Metadata
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-09-24 01:08:12.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  version: '5.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/external/source/exploits/cve-2013-0074/SilverApp1/SilverApp1.csproj
+  detection_source: external/source/exploits/cve-2013-0074/SilverApp1/SilverApp1.csproj
+  last_updated_by: jvazquez-r7
+  last_updated_on: 2013-11-22 22:53:06.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Christian Mehlmauer
+  last_updated_on: 2017-11-28 20:35:20.000000000 Z
+- name: SQLite
+  description: A software library that implements a self-contained, serverless, zero-configuration,
+    transactional SQL database engine
+  website_url: http://www.sqlite.org/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/metasploit-framework.gemspec
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Samuel Huckins
+  last_updated_on: 2014-08-15 16:33:31.000000000 Z
+- name: Cucumber
+  description: Simple, human collaboration.
+  website_url: https://cukes.info/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2544/jasVAxyJ.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/config/cucumber.yml
+  detection_source: config/cucumber.yml
+  last_updated_by: Luke Imhoff
+  last_updated_on: 2014-08-27 19:10:04.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: GitHub
+  description: Powerful collaboration, review, and code management for open source
+    and private development projects
+  website_url: https://github.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Collaboration & Version Control
+  image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Luke Imhoff
+  last_updated_on: 2012-10-01 18:09:30.000000000 Z
+- name: Octokit
+  description: GitHub API Client Library for .NET
+  website_url: https://github.com/octokit/octokit.net
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-04-06 20:36:02.000000000 Z
+- name: RSpec
+  description: Behaviour Driven Development for Ruby
+  website_url: https://rspec.info/
+  version: 3.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2539/logo.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Luke Imhoff
+  last_updated_on: 2012-10-01 18:09:30.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/metasploit-framework.gemspec
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-05-18 04:39:45.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Christian Mehlmauer
+  last_updated_on: 2017-09-29 09:50:02.000000000 Z
+- name: Vagrant
+  description: A tool for building and distributing development environments
+  website_url: http://www.vagrantup.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Management
+  image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Vagrantfile
+  detection_source: Vagrantfile
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-07-11 02:41:50.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/data/templates/src/pe/exe/service/Service.sln
+  detection_source: data/templates/src/pe/exe/service/Service.sln
+  last_updated_by: Stephen Fewer
+  last_updated_on: 2010-06-20 18:15:41.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/metasploit-framework.gemspec
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Samuel Huckins
+  last_updated_on: 2014-08-15 16:33:31.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Christian Mehlmauer
+  last_updated_on: 2017-11-28 20:35:20.000000000 Z
+- name: Postscript
+  description: Mailchimp for SMS
+  website_url: https://www.postscript.io/
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Voice and SMS
+  image_url: https://img.stackshare.io/service/10628/YjdR4whL_400x400.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework
+  detection_source: Repo Metadata
+- name: nokogiri
+  description: Nokogiri
+  package_url: https://rubygems.org/nokogiri
+  version: 1.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18823/default_b8fbb83e23c963442e15398c5b56262cc6267d6f.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-04-13 12:12:38.000000000 Z
+  vulnerabilities:
+  - name: Nokogiri Command Injection Vulnerability
+    cve_id: CVE-2019-5477
+    cve_url: https://github.com/advisories/GHSA-cr5j-953j-xw5p
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.10.4
+  - name: Nokogiri vulnerable to libxslt protection mechanism bypass
+    cve_id: CVE-2019-11068
+    cve_url: https://github.com/advisories/GHSA-qxcg-xjjg-66mj
+    detected_date: Mar 9
+    severity: critical
+    first_patched: 1.10.3
+  - name: libxml as used in Nokogiri has an infinite loop in a certain end-of-file
+      situation
+    cve_id: CVE-2020-7595
+    cve_url: https://github.com/advisories/GHSA-7553-jr98-vx47
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.10.8
+  - name: Nokogiri Implements libxml2 version vulnerable to use-after-free
+    cve_id: CVE-2021-3518
+    cve_url: https://github.com/advisories/GHSA-v4f8-2847-rwm7
+    detected_date: Jul 6
+    severity: high
+    first_patched: 1.11.4
+  - name: Integer Overflow or Wraparound in libxml2 affects Nokogiri
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-cgx6-hpwq-fhv5
+    detected_date: May 19
+    severity: high
+    first_patched: 1.13.5
+  - name: Improper Restriction of XML External Entity Reference (XXE) in Nokogiri
+      on JRuby
+    cve_id: CVE-2021-41098
+    cve_url: https://github.com/advisories/GHSA-2rr5-8q37-2w7h
+    detected_date: Sep 28
+    severity: high
+    first_patched: 1.12.5
+  - name: Denial of Service (DoS) in Nokogiri on JRuby
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-gx8x-g87m-h5q6
+    detected_date: Apr 12
+    severity: high
+    first_patched: 1.13.4
+  - name: Out-of-bounds Write in zlib affects Nokogiri
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-v6gp-9mmm-c6p5
+    detected_date: Apr 12
+    severity: high
+    first_patched: 1.13.4
+  - name: libxslt Type Confusion vulnerability that affects Nokogiri
+    cve_id: CVE-2019-13118
+    cve_url: https://github.com/advisories/GHSA-cf46-6xxh-pc75
+    detected_date: Mar 9
+    severity: high
+    first_patched: 1.10.5
+  - name: Nokogiri NULL Pointer Dereference
+    cve_id: CVE-2018-14404
+    cve_url: https://github.com/advisories/GHSA-6qvp-r6r3-9p7h
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.8.5
+  - name: Nokogiri Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-24836
+    cve_url: https://github.com/advisories/GHSA-crjr-9rc5-ghw8
+    detected_date: Apr 12
+    severity: high
+    first_patched: 1.13.4
+  - name: Nokogiri Improperly Handles Unexpected Data Type
+    cve_id: CVE-2022-29181
+    cve_url: https://github.com/advisories/GHSA-xh29-r2w5-wx8m
+    detected_date: May 24
+    severity: high
+    first_patched: 1.13.6
+  - name: Nokogiri gem, via libxml, is affected by DoS vulnerabilities
+    cve_id: CVE-2017-15412
+    cve_url: https://github.com/advisories/GHSA-r58r-74gx-6wx3
+    detected_date: Aug 26
+    severity: high
+    first_patched: 1.8.2
+  - name: Nokogiri contains libxml Out-of-bounds Write vulnerability
+    cve_id: CVE-2021-3517
+    cve_url: https://github.com/advisories/GHSA-jw9f-hh49-cvp9
+    detected_date: Mar 9
+    severity: high
+    first_patched: 1.11.4
+  - name: Nokogiri implementation of libxslt vulnerable to heap corruption
+    cve_id: CVE-2019-5815
+    cve_url: https://github.com/advisories/GHSA-vmfx-gcfq-wvm2
+    detected_date: Jul 8
+    severity: high
+    first_patched: 1.10.5
+  - name: Nokogiri affected by libxslt Use of Uninitialized Resource/Use After Free
+      vulnerability
+    cve_id: CVE-2019-18197
+    cve_url: https://github.com/advisories/GHSA-242x-7cm6-4w8j
+    detected_date: Jul 8
+    severity: high
+    first_patched: 1.10.5
+  - name: Uninitialized read in Nokogiri gem
+    cve_id: CVE-2019-13117
+    cve_url: https://github.com/advisories/GHSA-4hm9-844j-jmxp
+    detected_date: Jun 10
+    severity: high
+    first_patched: 1.10.5
+  - name: Nokogiri has vulnerable dependencies on libxml2 and libxslt
+    cve_id: CVE-2021-30560
+    cve_url: https://github.com/advisories/GHSA-59gp-qqm7-cw4j
+    detected_date: Jun 28
+    severity: high
+    first_patched: 1.13.2
+  - name: Nokogiri affected by zlib's Out-of-bounds Write vulnerability
+    cve_id: CVE-2018-25032
+    cve_url: https://github.com/advisories/GHSA-jc36-42cf-vqwj
+    detected_date: Jun 28
+    severity: high
+    first_patched: 1.13.4
+  - name: Vulnerable dependencies in Nokogiri
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-fq42-c5rg-92c2
+    detected_date: Feb 26
+    severity: high
+    first_patched: 1.13.2
+  - name: Nokogiri update packaged libxml2 to v2.12.5 to resolve CVE-2024-25062
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-xc9x-jj77-9p9j
+    detected_date: Feb 6
+    severity: moderate
+    first_patched: 1.15.6
+  - name: Update bundled libxml2 to v2.10.3 to resolve multiple CVEs
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-2qc6-mcvw-92cw
+    detected_date: Oct 18
+    severity: moderate
+    first_patched: 1.13.9
+  - name: Nokogiri Implements libxml2 version vulnerable to null pointer dereferencing
+    cve_id: CVE-2021-3537
+    cve_url: https://github.com/advisories/GHSA-286v-pcf5-25rc
+    detected_date: Jul 6
+    severity: moderate
+    first_patched: 1.11.4
+  - name: Nokogiri updates packaged dependency on libxml2 from 2.9.10 to 2.9.12
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-7rrm-v45f-jp64
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.11.4
+  - name: Uncontrolled resource consumption in nokogiri
+    cve_id: CVE-2017-18258
+    cve_url: https://github.com/advisories/GHSA-882p-jqgm-f45g
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.8.2
+  - name: Use-after-free in libxml2 via Nokogiri::XML::Reader
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-vcc3-rw6f-jv97
+    detected_date: Mar 19
+    severity: moderate
+    first_patched: 1.15.6
+  - name: Cross-site Scripting in loofah
+    cve_id: CVE-2018-8048
+    cve_url: https://github.com/advisories/GHSA-x7rv-cr6v-4vm4
+    detected_date: Jun 10
+    severity: moderate
+    first_patched: 1.8.3
+  - name: XML Injection in Xerces Java affects Nokogiri
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-xxx9-3xcr-gjj3
+    detected_date: Apr 12
+    severity: moderate
+    first_patched: 1.13.4
+  - name: Nokogiri updates packaged libxml2 to v2.10.4 to resolve multiple CVEs
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-pxvg-2qj5-37jq
+    detected_date: Apr 12
+    severity: moderate
+    first_patched: 1.14.3
+  - name: Nokogiri::XML::Schema trusts input by default, exposing risk of XXE vulnerability
+    cve_id: CVE-2020-26247
+    cve_url: https://github.com/advisories/GHSA-vr8q-g5c7-m54m
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.11.0
+  - name: 'Duplicate Advisory: Nokogiri updates packaged libxml2 to v2.12.7 to resolve
+      CVE-2024-34459'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-r3w4-36x6-7r99
+    detected_date: May 15
+    severity: low
+    first_patched: 1.16.5
+  - name: Nokogiri updates packaged libxml2 to v2.12.7 to resolve CVE-2024-34459
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-r95h-9x8f-r3f7
+    detected_date: May 14
+    severity: low
+    first_patched: 1.16.5
+- name: rubyzip
+  description: Rubyzip is a ruby module for reading and writing zip files
+  package_url: https://rubygems.org/rubyzip
+  version: 1.2.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18887/default_1e22ca9f3f63a8c93249bae500705b9451e7e882.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-06-21 08:13:43.000000000 Z
+  vulnerabilities:
+  - name: Rubyzip gem contains a Directory Traversal vulnerability in zip file component
+    cve_id: CVE-2018-1000544
+    cve_url: https://github.com/advisories/GHSA-vqcq-mrmw-mcmg
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.2.2
+  - name: 'Rubyzip denial of service '
+    cve_id: CVE-2019-16892
+    cve_url: https://github.com/advisories/GHSA-5m2v-hc64-56h6
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.3.0
+- name: json
+  description: This is a JSON implementation as a Ruby extension in C
+  package_url: https://rubygems.org/json
+  version: 2.1.0
+  license: Ruby
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18822/default_19184669508c0f71aec9521d5f14d71b77203130.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Samuel Huckins
+  last_updated_on: 2014-08-15 16:33:31.000000000 Z
+  vulnerabilities:
+  - name: Unsafe object creation in json RubyGem
+    cve_id: CVE-2020-10663
+    cve_url: https://github.com/advisories/GHSA-jphg-qwrw-7w9g
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.3.0
+- name: tzinfo
+  description: TZInfo provides access to time zone data and allows times to be converted
+    using time zone rules
+  package_url: https://rubygems.org/tzinfo
+  version: 1.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18981/default_eb163f66039a75cd168fad8a88ccdb68b82bccff.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2016-09-27 09:01:05.000000000 Z
+  vulnerabilities:
+  - name: TZInfo relative path traversal vulnerability allows loading of arbitrary
+      files
+    cve_id: CVE-2022-31163
+    cve_url: https://github.com/advisories/GHSA-5cm2-9h8c-rvfx
+    detected_date: Jul 22
+    severity: high
+    first_patched: 1.2.10
+- name: yard
+  description: YARD is a documentation generation tool for the Ruby programming language
+  package_url: https://rubygems.org/yard
+  version: 0.9.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18825/default_b8fbb83e23c963442e15398c5b56262cc6267d6f.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Tab Assassin
+  last_updated_on: 2013-11-26 16:48:50.000000000 Z
+  vulnerabilities:
+  - name: Path Traversal vulnerability that affects yard
+    cve_id: CVE-2019-1020001
+    cve_url: https://github.com/advisories/GHSA-xfhh-rx56-rxcr
+    detected_date: Aug 22
+    severity: high
+    first_patched: 0.9.20
+  - name: YARD's default template vulnerable to Cross-site Scripting in generated
+      frames.html
+    cve_id: CVE-2024-27285
+    cve_url: https://github.com/advisories/GHSA-8mq4-9jjh-9xrc
+    detected_date: Feb 29
+    severity: moderate
+    first_patched: 0.9.36
+- name: rake
+  description: Rake is a Make-like program implemented in Ruby
+  package_url: https://rubygems.org/rake
+  version: 12.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: David Maloney
+  last_updated_on: 2016-04-15 16:45:43.000000000 Z
+  vulnerabilities:
+  - name: OS Command Injection in Rake
+    cve_id: CVE-2020-8130
+    cve_url: https://github.com/advisories/GHSA-jppv-gw3r-w3q8
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 12.3.3
+- name: redcarpet
+  description: A fast, safe and extensible Markdown to
+  package_url: https://rubygems.org/redcarpet
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18853/default_b87d202e13d56f87c63181fa49bc5e099c9abaac.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Tab Assassin
+  last_updated_on: 2013-11-26 16:48:50.000000000 Z
+  vulnerabilities:
+  - name: Injection/XSS in Redcarpet
+    cve_id: CVE-2020-26298
+    cve_url: https://github.com/advisories/GHSA-q3wr-qw3g-3p4h
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.5.1
+- name: backports
+  description: Essential backports that enable many of the nice features of Ruby for
+    earlier versions
+  package_url: https://rubygems.org/backports
+  version: 3.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19159/default_c8270617b11a0e0bb186cecf4527f28719105688.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-05-18 04:39:45.000000000 Z
+- name: bcrypt
+  description: Bcrypt
+  package_url: https://rubygems.org/bcrypt
+  version: 3.1.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19054/default_2be036aaca5c71baf790e00f1ef80dd37a625905.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-08-01 20:26:50.000000000 Z
+- name: bcrypt_pbkdf
+  description: This gem implements bcrypt_pdkfd
+  package_url: https://rubygems.org/bcrypt_pbkdf
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-08-01 20:26:50.000000000 Z
+- name: bit-struct
+  description: Library for packed binary data stored in ruby Strings
+  package_url: https://rubygems.org/bit-struct
+  version: '0.16'
+  license: Ruby
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: David Maloney
+  last_updated_on: 2016-07-15 21:01:21.000000000 Z
+- name: dnsruby
+  description: Dnsruby is a pure Ruby DNS client library which implements a stub resolver
+  package_url: https://rubygems.org/dnsruby
+  version: 1.60.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19741/default_e080e8884478ab7384668fbd6d4a7b960d196e3d.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-06-21 08:13:43.000000000 Z
+- name: factory_girl_rails
+  description: Factory_girl_rails provides integration between factory_girl and rails
+    3 or newer
+  package_url: https://rubygems.org/factory_girl_rails
+  version: 4.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18885/default_2ee21c0657d6b4f7c9a25f371c4eb30f678e82bb.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: David Maloney
+  last_updated_on: 2016-04-15 16:45:43.000000000 Z
+- name: faker
+  description: Faker
+  package_url: https://rubygems.org/faker
+  version: 1.8.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18897/default_31c6044490fb5c1bec1388b8ceb466b6ac78ae92.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: RageLtMan
+  last_updated_on: 2017-12-29 02:00:03.000000000 Z
+- name: filesize
+  description: Filesize is a small class for handling filesizes with both the SI and
+    binary prefixes
+  package_url: https://rubygems.org/filesize
+  version: 0.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19689/default_ef429f160114bebd5dc9a8ccd9a5122eff1927ff.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Christian Mehlmauer
+  last_updated_on: 2017-07-10 14:38:10.000000000 Z
+- name: fivemat
+  description: MiniTest/RSpec/Cucumber formatter that gives each test file its own
+    line of dots
+  package_url: https://rubygems.org/fivemat
+  version: 1.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19315/default_30fc2e8699c0a006101bb2e563f4a08a3388433e.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: David Maloney
+  last_updated_on: 2016-04-15 16:45:43.000000000 Z
+- name: mqtt
+  description: Pure Ruby gem that implements the MQTT protocol
+  package_url: https://rubygems.org/mqtt
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Jon Hart
+  last_updated_on: 2017-12-20 20:28:02.000000000 Z
+- name: msgpack
+  description: MessagePack is a binary-based efficient object serialization library
+  package_url: https://rubygems.org/msgpack
+  version: 1.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19051/default_76e060fe9703f2b60ce4bc4f9e2633d27597740f.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: James Lee
+  last_updated_on: 2017-05-09 16:03:32.000000000 Z
+- name: net-ssh
+  description: 'Net::SSH: a pure-Ruby implementation of the SSH2 client protocol'
+  package_url: https://rubygems.org/net-ssh
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18906/default_b4a9f287f96e9c4af701e604d89d02e677f228af.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: David Maloney
+  last_updated_on: 2016-07-05 16:08:57.000000000 Z
+- name: nexpose
+  description: This gem provides a Ruby API to the Nexpose vulnerability management
+    product by Rapid7
+  package_url: https://rubygems.org/nexpose
+  version: 7.1.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Jeffrey Martin
+  last_updated_on: 2017-01-25 16:13:28.000000000 Z
+- name: packetfu
+  description: PacketFu is a mid-level packet manipulation library for Ruby
+  package_url: https://rubygems.org/packetfu
+  version: 1.1.13
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Matthew Daley
+  last_updated_on: 2017-05-23 12:11:06.000000000 Z
+- name: pcaprub
+  description: Libpcap bindings for Ruby 2.x
+  package_url: https://rubygems.org/pcaprub
+  version: 0.12.4
+  license: LGPL-2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2015-11-09 19:03:26.000000000 Z
+- name: pdf-reader
+  description: The PDF::Reader library implements a PDF parser conforming as much
+    as possible to the PDF specification from Adobe
+  package_url: https://rubygems.org/pdf-reader
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19277/default_cbc0b085726c891842fe24ed14528355ed68d563.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brendan Coles
+  last_updated_on: 2017-07-07 11:19:06.000000000 Z
+- name: pg
+  description: Pg is the Ruby interface to the {PostgreSQL RDBMS}[http://www.postgresql.org/]
+  package_url: https://rubygems.org/pg
+  version: 0.20.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18855/default_d343d9a7c573fa5dcbeb4d3c43d2ffe4afa82cc1.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Samuel Huckins
+  last_updated_on: 2014-08-15 16:33:31.000000000 Z
+- name: pry
+  description: An IRB alternative and runtime developer console
+  package_url: https://rubygems.org/pry
+  version: 0.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18815/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Luke Imhoff
+  last_updated_on: 2012-10-01 18:09:30.000000000 Z
+- name: railties
+  description: 'Rails internals: application bootup'
+  package_url: https://rubygems.org/railties
+  version: 4.2.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18847/default_49e8e438a279d3b7963273823890f9482ce83fb4.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: David Maloney
+  last_updated_on: 2016-08-30 15:43:47.000000000 Z
+- name: rb-readline
+  description: The readline library provides a pure Ruby implementation of the GNU
+    readline C library
+  package_url: https://rubygems.org/rb-readline
+  version: 0.5.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19063/default_84b90fa6611abf33247060abc61175b997d20be2.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brendan Coles
+  last_updated_on: 2017-07-07 11:19:06.000000000 Z
+- name: rbnacl
+  description: The Networking and Cryptography
+  package_url: https://rubygems.org/rbnacl
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19525/default_1ac80bcceca19fc3955ee33a26814ab8de230f7e.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-08-01 20:26:50.000000000 Z
+- name: rex-text
+  description: This Gem contains all of the Ruby Exploitation
+  package_url: https://rubygems.org/rex-text
+  version: 0.2.16
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Jeffrey Martin
+  last_updated_on: 2017-10-25 21:29:11.000000000 Z
+- name: rspec-rails
+  description: Rspec-rails is a testing framework for Rails 3+
+  package_url: https://rubygems.org/rspec-rails
+  version: 3.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18830/default_ba8d7756589e5fc0164687950e3f091b32554546.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: darkbushido
+  last_updated_on: 2017-06-20 19:02:32.000000000 Z
+- name: rubyntlm
+  description: Ruby/NTLM provides message creator and parser for the NTLM authentication
+  package_url: https://rubygems.org/rubyntlm
+  version: 0.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19597/image.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-06-21 08:13:43.000000000 Z
+- name: simplecov
+  description: Code coverage for Ruby 1.9+ with a powerful configuration library and
+    automatic merging of coverage across test suites
+  package_url: https://rubygems.org/simplecov
+  version: 0.15.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18819/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Matt Buck
+  last_updated_on: 2015-01-08 19:12:27.000000000 Z
+- name: sqlite3
+  description: This module allows Ruby programs to interface with the SQLite3 database
+    engine
+  package_url: https://rubygems.org/sqlite3
+  version: 1.3.13
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18820/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Samuel Huckins
+  last_updated_on: 2014-08-15 16:33:31.000000000 Z
+- name: sshkey
+  description: Generate private/public SSH keypairs using pure Ruby
+  package_url: https://rubygems.org/sshkey
+  version: 1.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19635/default_c20e52921fb58565300f75e5cc64e8813f40ba54.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: David Maloney
+  last_updated_on: 2016-06-28 21:10:48.000000000 Z
+- name: timecop
+  description: A gem providing "time travel" and "time freezing" capabilities, making
+    it dead simple to test time-dependent code
+  package_url: https://rubygems.org/timecop
+  version: 0.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18861/default_96cb61a9c0f8ef41b80df83209dca4f4c229184e.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Luke Imhoff
+  last_updated_on: 2014-06-02 18:03:07.000000000 Z
+- name: tzinfo-data
+  description: TZInfo::Data contains data from the IANA Time Zone database packaged
+    as Ruby modules for use with TZInfo
+  package_url: https://rubygems.org/tzinfo-data
+  version: 1.2017.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19516/default_07037590725b871de29c1d2ebb4610950e953355.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-06-21 08:13:43.000000000 Z
+- name: xmlrpc
+  description: XMLRPC is a lightweight protocol that enables remote procedure calls
+    over HTTP
+  package_url: https://rubygems.org/xmlrpc
+  version: 0.3.0
+  license: Ruby
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/vladdou/metasploit-framework/blob/master/Gemfile.lock
+  detection_source: metasploit-framework.gemspec
+  last_updated_by: Brent Cook
+  last_updated_on: 2017-04-13 22:33:29.000000000 Z
